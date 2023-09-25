@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H4CKRC
-- 
+  
 ## About Me
 
 I am a dedicated student pursuing a diploma in Cyber Defense with a keen interest in social engineering and hardware hacking. My goal is to explore the fascinating world of cybersecurity from both the human and hardware perspectives.
